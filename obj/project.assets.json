@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aidan\\source\\repos\\HuntersSite\\HuntersSite\\HuntersSite.csproj",
+      "projectUniqueName": "C:\\Users\\aidan\\OneDrive\\Documents\\GitHub\\HuntersSite\\HuntersSite.csproj",
       "projectName": "HuntersSite",
-      "projectPath": "C:\\Users\\aidan\\source\\repos\\HuntersSite\\HuntersSite\\HuntersSite.csproj",
+      "projectPath": "C:\\Users\\aidan\\OneDrive\\Documents\\GitHub\\HuntersSite\\HuntersSite.csproj",
       "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aidan\\source\\repos\\HuntersSite\\HuntersSite\\obj\\",
+      "outputPath": "C:\\Users\\aidan\\OneDrive\\Documents\\GitHub\\HuntersSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
